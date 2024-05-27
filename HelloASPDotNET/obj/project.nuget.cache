@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8eDsMGrMziY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Evan\\source\\repos\\csharp_learnin\\HelloASPDotNET\\HelloASPDotNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Evan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
