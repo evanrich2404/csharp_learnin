@@ -6,4 +6,4 @@ This repository contains the code that I have created while learning C# for web 
 
 ## Resources
 
-[C# Web Development by LaunchCode] (https://youtube.com/playlist?list=PLs5n5nYB22fLNFVzynXywEydlRb6DUot_&si=nRVwD-bpEj21VEe8)
+[C# Web Development by LaunchCode](https://youtube.com/playlist?list=PLs5n5nYB22fLNFVzynXywEydlRb6DUot_&si=nRVwD-bpEj21VEe8)
